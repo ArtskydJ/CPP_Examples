@@ -9,7 +9,7 @@ int main()
 {
 while (1)
   {
-  //Sleep(500);
+  Sleep(1000);
   if (kbhit()!=0)
     {cout<<getch()<<endl;}
   }
