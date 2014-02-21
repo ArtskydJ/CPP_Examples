@@ -2,7 +2,6 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-int x;
 
 int main()
   {
