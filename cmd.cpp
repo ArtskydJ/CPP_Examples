@@ -1,2 +1,6 @@
 #include <iostream>
-int main(){while(1){std::cin.get();}}
+int main(){
+	while(1) {
+		std::cin.get();
+	}
+}
